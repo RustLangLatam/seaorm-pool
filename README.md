@@ -1,9 +1,11 @@
 # SeaORM Connection Pool (`seaorm-pool`)
 
-[![Crates.io](https://img.shields.io/crates/v/seaorm-pool.svg?style=for-the-badge&logo=rust)](https://crates.io/crates/seaorm-pool)
-[![Docs.rs](https://img.shields.io/docsrs/seaorm-pool?style=for-the-badge&logo=docs.rs)](https://docs.rs/seaorm-pool)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/[YOUR_USERNAME]/[YOUR_REPO]/rust.yml?branch=main&style=for-the-badge&logo=githubactions)](https://github.com/[YOUR_USERNAME]/[YOUR_REPO]/actions)
-[![License: MIT/Apache-2.0](https://img.shields.io/crates/l/seaorm-pool?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Rust 2024](https://img.shields.io/badge/Rust-2024-93450a?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/RustLangLatam/seaorm-pool/rust.yml?branch=main&style=for-the-badge&logo=githubactions)](https://github.com/[RustLangLatam/seaorm-pool/actions)
+[![Crates.io](https://img.shields.io/crates/v/seaorm-pool?label=seaorm-pool&style=for-the-badge&logo=rust)](https://crates.io/crates/seaorm-pool)
+[![SeaORM](https://img.shields.io/badge/SeaORM-1.1-00758F?style=for-the-badge&logo=rust)](https://www.sea-orm.com/)
+[![TiDB](https://img.shields.io/badge/Supports-TiDB-4E64E7?style=for-the-badge&logo=tidb)](https://www.pingcap.com/tidb/)
+[![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20%2F%20Apache--2.0-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A robust and easy-to-use utility for creating a `sea-orm` connection pool from a configuration file. Designed for async Rust applications connecting to MySQL-compatible databases like TiDB.
 
